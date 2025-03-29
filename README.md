@@ -37,8 +37,8 @@ Based on the plot, Petal length and petal width are the most significant feature
 
 ## Usage
 To classify a new Iris flower, provide its measurements as input to the trained model. Example below.
-    ```bash
-    model.predict([[5.1, 3.5, 1.4, 0.2]])  #Output: 'Iris-setosa'
+
+    ```bash model.predict([[5.1, 3.5, 1.4, 0.2]])  #Output: 'Iris-setosa'
 
 ## Main Dependencies
     - Pandas
